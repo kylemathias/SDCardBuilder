@@ -47,7 +47,7 @@ android:
   - android-sdk-license-.+
   - google-gdk-license-.+
 notifications:
-  email: false
+  email: true
 deploy:
   provider: releases
   api_key:
